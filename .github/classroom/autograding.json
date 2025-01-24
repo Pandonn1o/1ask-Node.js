@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Test",
-      "setup": "npm install && npm install jest",
+      "setup": "npm install && npm install jest && npm install dotenv",
       "run": "npx jest",
       "input": "",
       "output": "",
